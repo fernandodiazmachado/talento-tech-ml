@@ -1,3 +1,8 @@
 .ipynb_checkpoints/
 __pycache__/
 .env
+
+# Archivos de configuración del sistema operativo
+desktop.ini
+.DS_Store
+Thumbs.db
